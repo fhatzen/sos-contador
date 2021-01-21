@@ -45,7 +45,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://newdanger.com.ar/sos-contador/#planes">- Planes</a>
+															<a href="#planes">- Planes</a>
 														</div>
 													</div>
 												</div>
@@ -54,7 +54,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="http://newdanger.com.ar/secin/blog/category/noticias">- Novedades</a>
+															<a href="https://www.sos-contador.com/blog/">- Novedades</a>
 														</div>
 													</div>
 												</div>
@@ -63,7 +63,7 @@ con una permanente actualización y desarrolla nuevas funcionalidades a diario.
 												<div class="grid-inner row">
 													<div class="col">
 														<div class="entry-title">
-															<a href="https://newdanger.com.ar/sos-contador/nosotros.php">- Nosotros</a>
+															<a href="#nosotros">- Nosotros</a>
 														</div>
 													</div>
 												</div>
